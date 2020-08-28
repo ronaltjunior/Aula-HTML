@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html> 
+  <head>
+    <title>FILMES OLINE</title>
+  </head>
+  <body>
+  
+  
+  
+  
+    <header style="background-color:BLUE">
+      <img src="https://www.buzzpop.tv/wp-content/uploads/2020/03/Contest1-380x220.png"
+      alt="imagem de cachorro rosa"
+      title="Imagem Bloodshot"
+      >
+      <br><br>
+      <nav>
+       <a href=#> Inicio</a> | 
+       <a href=#> Nossos produtos</a>  | 
+       <a href=#> Serviços</a> | 
+       <a href=#> Fale conosco</a>
+     </nav>
+     
+   </header>
+   <hr>
+   
+   <content>
+   
+   <h1> 
+   Filmes Online Início</h1>
+   
+  <blockquote cite="http://developer.mozilla.org">
+  <p>Assista vários filmes online, incluindo lançamentos.</p>
+</blockquote>
+   
+   <section>
+     <hgroup> <h2>Lançamentos 2020</h2></hgroup>
+   		<p>Ação, Fixão, Comédia e Muito mais.<p>
+        
+        <article> 
+        <hgroup> <h2>Filmes Online</h2></hgroup>
+        <p> Conteúdos Sempre atualizados </p>
+         
+        </article>
+   
+   </section>
+     
+   </content>
+   
+  <footer>
+  <hr>
+       <nav>
+       <a href=#> Inicio</a> <br>
+       <a href=#> Nossos produtos</a>  <br> 
+       <a href=#> Serviços</a> <br> 
+       <a href=#> Fale conosco</a>
+     </nav>
+     
+     
+     
+  <hr>
+  <small>Todos os Direitos Reservados - <b>Filmes Online</b> </small>
+  </footer>
+
+  </body>
+</html>
